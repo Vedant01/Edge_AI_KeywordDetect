@@ -1,5 +1,5 @@
 # Edge AI Keyword Detect
-###  Vedant Agarwal
+##### By Vedant Agarwal
  Compact CNNs on Audio for Keyword Spotting on Resource-Constrained Edge AI Devices
 
 To use the Main script:
